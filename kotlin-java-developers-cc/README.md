@@ -22,7 +22,7 @@ Kotlin/JVM.
 
 - [x] 0:07:07 From Java to Kotlin
 - [x] 0:14:20 Basics
-- [ ] 0:33:58 Control Structures
+- [x] 0:33:58 Control Structures
 - [ ] 0:50:34 Extensions
 - [ ] 1:10:53 Programming Assignment
 - [ ] 1:13:44 Playground Solutions
