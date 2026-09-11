@@ -16,7 +16,7 @@ Kotlin/JVM.
 
 ### Introduction
 
-- [ ] 0:00:00 Course Introduction
+- [x] 0:00:00 Course Introduction
 
 ### Starting up with Kotlin
 
