@@ -10,3 +10,9 @@ learning [Kotlin](https://kotlinlang.org/).
 The folder [`kotlin-java-developers-cc`](./kotlin-java-developers-cc/) is used to track progress and store course work while
 taking the course [Kotlin For Java Developers Complete Course](https://www.youtube.com/watch?v=dMyRywABp_c), presented
 by [Svetlana Isakova](https://www.jetbrains.com/guide/authors/svetlanaisakova/).
+
+### Kotlin For Java Developers
+
+The folder [`kotlin-java-developers`](./kotlin-java-developers/) is used to track progress and store course work while
+taking the course [Kotlin For Java Developers](https://www.udemy.com/course/kotlin-for-java-developers/), created
+by Sarah Ettrich and [Tim Buchalka](https://www.linkedin.com/in/timbuchalka).
