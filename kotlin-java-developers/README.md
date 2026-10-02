@@ -8,16 +8,16 @@ by Sarah Ettrich and [Tim Buchalka](https://www.linkedin.com/in/timbuchalka).
 
 ### Section 1: Comprehensive Course Overview and Environment Setup for Kotlin
 
-- [ ] 01 - Instructor Introduction and Course Transition Overview with Tim Buchalka
-- [ ] 02 - Kotlin for Java Developers: Prerequisites, Course Outline, and Objectives
-- [ ] 03 - Activating Your Six-Month Free IntelliJ IDEA Ultimate Edition Trial
-- [ ] 04 - Step-by-Step Guide to Downloading and Installing JDK 8 on Windows
-- [ ] 05 - Comprehensive Guide: Downloading and Installing JDK 8 on Mac Systems
-- [ ] 06 - Downloading and Installing the Java Development Kit (JDK) 8 on Ubuntu Linux
-- [ ] 07 - Setting Up IntelliJ IDEA on Windows: Download, Installation, and Configuration
-- [ ] 08 - Comprehensive Guide to Installing and Configuring IntelliJ IDEA on macOS
-- [ ] 09 - Installing and Configuring IntelliJ IDEA on Linux: A Step-by-Step Guide
-- [ ] 10 - Configuring IntelliJ IDEA for Optimal Kotlin Development and Coding Practices
+- [x] 01 - Instructor Introduction and Course Transition Overview with Tim Buchalka
+- [x] 02 - Kotlin for Java Developers: Prerequisites, Course Outline, and Objectives
+- [x] 03 - Activating Your Six-Month Free IntelliJ IDEA Ultimate Edition Trial
+- [x] 04 - Step-by-Step Guide to Downloading and Installing JDK 8 on Windows
+- [x] 05 - Comprehensive Guide: Downloading and Installing JDK 8 on Mac Systems
+- [x] 06 - Downloading and Installing the Java Development Kit (JDK) 8 on Ubuntu Linux
+- [x] 07 - Setting Up IntelliJ IDEA on Windows: Download, Installation, and Configuration
+- [x] 08 - Comprehensive Guide to Installing and Configuring IntelliJ IDEA on macOS
+- [x] 09 - Installing and Configuring IntelliJ IDEA on Linux: A Step-by-Step Guide
+- [x] 10 - Configuring IntelliJ IDEA for Optimal Kotlin Development and Coding Practices
 
 ### Section 2: Kotlin Fundamentals: Language Overview and Java Code Conversion
 
