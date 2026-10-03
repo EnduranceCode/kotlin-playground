@@ -44,13 +44,13 @@ by Sarah Ettrich and [Tim Buchalka](https://www.linkedin.com/in/timbuchalka).
 
 ### Section 4: Kotlin Types and Null Safety: Mastering Data Types and Null Handling
 
-- [ ] 28 - Kotlin Data Types and Nullability: An Introduction to Section 4 Concepts
-- [ ] 29 - Kotlin's Primitive Types: Int, Byte, Short, Long, Float, Double, Char, Boolean
-- [ ] 30 - Working with Arrays in Kotlin: Creation, Initialization, and Primitive Types
-- [ ] 31 - Preventing NullPointerExceptions: Kotlin's Nullable Types and Safe Calls -Part 1
-- [ ] 32 - Advanced Null Safety: The Elvis Operator and Not-Null Assertions in Kotlin-Part
-- [ ] 33 - Creating Arrays of Nullable Types
-- [ ] 34 - Data Types, Nullability, and Arrays: Kotlin Practice Exercises
+- [x] 28 - Kotlin Data Types and Nullability: An Introduction to Section 4 Concepts
+- [x] 29 - Kotlin's Primitive Types: Int, Byte, Short, Long, Float, Double, Char, Boolean
+- [x] 30 - Working with Arrays in Kotlin: Creation, Initialization, and Primitive Types
+- [x] 31 - Preventing NullPointerExceptions: Kotlin's Nullable Types and Safe Calls -Part 1
+- [x] 32 - Advanced Null Safety: The Elvis Operator and Not-Null Assertions in Kotlin-Part
+- [x] 33 - Creating Arrays of Nullable Types
+- [x] 34 - Data Types, Nullability, and Arrays: Kotlin Practice Exercises
 
 ### Section 5: Object-Oriented Kotlin: Classes, Functions, and Class Inheritance
 
