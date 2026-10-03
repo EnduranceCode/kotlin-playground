@@ -21,11 +21,11 @@ by Sarah Ettrich and [Tim Buchalka](https://www.linkedin.com/in/timbuchalka).
 
 ### Section 2: Kotlin Fundamentals: Language Overview and Java Code Conversion
 
-- [ ] 11 - Section Overview: Exploring Kotlin's Purpose and Practical Application
-- [ ] 12 - What is Kotlin? Exploring Origins, Principles, and Java Interoperability
-- [ ] 13 - Analyzing the Java Text Adventure Game: Code Structure and Functionality
-- [ ] 14 - Hands-on Conversion: Transforming the Java Text Adventure Game to Kotlin
-- [ ] 15 - Leveraging IntelliJ IDEA's Automatic Java-to-Kotlin Code Converter
+- [x] 11 - Section Overview: Exploring Kotlin's Purpose and Practical Application
+- [x] 12 - What is Kotlin? Exploring Origins, Principles, and Java Interoperability
+- [x] 13 - Analyzing the Java Text Adventure Game: Code Structure and Functionality
+- [x] 14 - Hands-on Conversion: Transforming the Java Text Adventure Game to Kotlin
+- [x] 15 - Leveraging IntelliJ IDEA's Automatic Java-to-Kotlin Code Converter
 
 ### Section 3: Essential Kotlin Fundamentals: Grasping Key Differences from Java
 
