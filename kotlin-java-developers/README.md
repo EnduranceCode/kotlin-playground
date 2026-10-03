@@ -29,18 +29,18 @@ by Sarah Ettrich and [Tim Buchalka](https://www.linkedin.com/in/timbuchalka).
 
 ### Section 3: Essential Kotlin Fundamentals: Grasping Key Differences from Java
 
-- [ ] 16 - Kotlin Section 3 Kickoff: Diving into Syntax Differences and Key Concepts
-- [ ] 17 - Crafting Your First Kotlin Program: "Hello World" Example and JVM Execution
-- [ ] 18 - Exploring the Kotlin Standard Library: Packages, Default Imports, and API
-- [ ] 19 - Kotlin Variable Declarations: Understanding 'val', 'var', and Type Inference
-- [ ] 20 - Creating Type Aliases in Kotlin: Simplifying Complex Types for Readability
-- [ ] 21 - Kotlin vs. Java: Concise Syntax, Null Safety, and Standard Library Usage
-- [ ] 22 - Understanding Equality in Kotlin: Referential (===) vs. Structural (==)
-- [ ] 23 - Kotlin Bitwise Operators and Smart Casting: Streamlined Type Handling
-- [ ] 24 - Enhancing String Manipulation with Kotlin's Powerful String Templates
-- [ ] 25 - Mastering Raw Strings in Kotlin: Multi-line and Unescaped Text Handling
-- [ ] 26 - Interactive Kotlin Development: Utilizing the Read-Eval-Print Loop (REPL)
-- [ ] 27 - Foundational Kotlin Syntax and Project Setup: A Practical Exercise Series
+- [x] 16 - Kotlin Section 3 Kickoff: Diving into Syntax Differences and Key Concepts
+- [x] 17 - Crafting Your First Kotlin Program: "Hello World" Example and JVM Execution
+- [x] 18 - Exploring the Kotlin Standard Library: Packages, Default Imports, and API
+- [x] 19 - Kotlin Variable Declarations: Understanding 'val', 'var', and Type Inference
+- [x] 20 - Creating Type Aliases in Kotlin: Simplifying Complex Types for Readability
+- [x] 21 - Kotlin vs. Java: Concise Syntax, Null Safety, and Standard Library Usage
+- [x] 22 - Understanding Equality in Kotlin: Referential (===) vs. Structural (==)
+- [x] 23 - Kotlin Bitwise Operators and Smart Casting: Streamlined Type Handling
+- [x] 24 - Enhancing String Manipulation with Kotlin's Powerful String Templates
+- [x] 25 - Mastering Raw Strings in Kotlin: Multi-line and Unescaped Text Handling
+- [x] 26 - Interactive Kotlin Development: Utilizing the Read-Eval-Print Loop (REPL)
+- [x] 27 - Foundational Kotlin Syntax and Project Setup: A Practical Exercise Series
 
 ### Section 4: Kotlin Types and Null Safety: Mastering Data Types and Null Handling
 
